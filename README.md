@@ -7,7 +7,7 @@ For this program I used selenium for web scrapping and Sqlite3 for database
 ### How it works ?
 
 * First you need to choose what you want to search\n
-* Second yo need to give letter group as a input to program 
+* Second yoy need to give letter group as a input to program 
 * Program will return names which has specific letter group that you gave to the program 
 
 
