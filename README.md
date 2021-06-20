@@ -4,13 +4,13 @@ I created word  search program to solve cross puzzle on GodVille game, easily.
 
 ### How it works ?
 
-* First you need to choose what you want to search
+First you need to choose what you want to search
 ![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg)
 
 
 
-* Second yo need to give letter group as a input to program 
-* Program will return names which has specific letter group that you gave to the program 
+Second yo need to give letter group as a input to program 
+Program will return names which has specific letter group that you gave to the program 
 
 
 
