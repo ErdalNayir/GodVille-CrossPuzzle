@@ -6,13 +6,17 @@ For this program I used selenium for web scrapping and Sqlite3 for database
 
 ### How it works ?
 
-* First you need to choose what you want to search\n
+* First you need to choose what you want to search
 * Second yoy need to give letter group as a input to program 
 * Program will return names which has specific letter group that you gave to the program 
 
+<br></br>
+<br></br>
 
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg" height="250" width="350" /></div>
+<br></br>
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/2.jpg" height="250" width="350" /></div> 
+<br></br>
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg" height="250" width="350" /></div>
 
 
