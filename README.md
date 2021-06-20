@@ -9,6 +9,10 @@ I created word  search program to solve cross puzzle on GodVille game, easily.
 * Program will return names which has specific letter group that you gave to the program 
 
 ![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg)
+![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/2.jpg)
+![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/3.jpg)
+![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg)
+
 
 
 
