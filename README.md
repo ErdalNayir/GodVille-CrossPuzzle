@@ -4,7 +4,7 @@ I created word  search program to solve cross puzzle on GodVille game, easily.
 
 ### How it works ?
 
-First you need to choose what you want to search
+First you need to choose what you want to search\n
 ![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg)
 
 
