@@ -13,7 +13,12 @@ I created word  search program to solve cross puzzle on GodVille game, easily.
 ![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/3.jpg)
 ![Alt text](https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg)
 
-
+<p float="down">
+  <img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg" width="100" />
+  <img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/2.jpg" width="100" /> 
+  <img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/3.jpg" width="100" />
+  <img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg" width="100" />
+</p>
 
 
 
