@@ -19,7 +19,7 @@ For this program I used selenium for web scrapping and Sqlite3 for database
 <br></br>
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg" height="250" width="350" /></div>
 
-
+<br></br>
 
 
 
