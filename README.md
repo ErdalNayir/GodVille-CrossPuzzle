@@ -11,7 +11,6 @@ I created word  search program to solve cross puzzle on GodVille game, easily.
 
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/1.jpg" height="250" width="350" /></div>
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/2.jpg" height="250" width="350" /></div> 
-<div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/3.jpg" height="250" width="350" /></div>
 <div><img src="https://github.com/ErdalNayir/GodVille-CrossPuzzle/blob/main/5.jpg" height="250" width="350" /></div>
 
 
